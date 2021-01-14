@@ -20,8 +20,8 @@ from collections import OrderedDict
 import string
 # characters = '-' + string.digits + string.ascii_uppercase
 characters = '-' + string.digits + string.ascii_letters
-# width, height, n_len, n_classes = 192, 64, 4, len(characters)
-width, height, n_len, n_classes = 215, 80, 4, len(characters)
+width, height, n_len, n_classes = 192, 64, 4, len(characters)
+# width, height, n_len, n_classes = 215, 80, 4, len(characters)
 n_input_length = 12
 
 from captcha_generator import ImageCaptcha # Mock

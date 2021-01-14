@@ -9,6 +9,7 @@ string_range = string.ascii_letters + string.digits
 def sample_text():
     return ''.join(random.choices(string_range, k=4))
 
+# base_size = (64, 192, 3)
 base_size = (80, 215, 3)
 
 # The result is obtained by two components mixture gaussian model
