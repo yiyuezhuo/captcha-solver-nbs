@@ -67,5 +67,5 @@ Well, it's not good compared to a more "supervised" model, while I have not spen
 
 So it's a yet another time that colab can be used on project other than MNIST🤔.
 
-[evaluate.ipynb](https://colab.research.google.com/drive/14hNVuULwYmDzvwB8AbBP_0czUCYLJo2i?usp=sharing)
-[train.ipynb]()
+* evaluate.ipynb [notebook](evaluate.ipynb) [colab](https://colab.research.google.com/drive/14hNVuULwYmDzvwB8AbBP_0czUCYLJo2i?usp=sharing)
+* train.ipynb [notebook](train.ipynb) [colab](https://colab.research.google.com/drive/12SPkxr3uHESQTdGbNVBpgEvRy-7b9Z6Y?usp=sharing)
